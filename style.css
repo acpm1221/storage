@@ -1,0 +1,42 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglGdSkIC0ZTIkzRXIlV4Drmo5mdJfYfRgih-TVg3WLnnQUYIT28tRki5Q2-WwsnVFW5l1W_8E3KXovmoJ4jXW-gSuQ_AVPYfHdOm4aOvlkI170STdxK4gKwg8rV_0pd8H6-X5rGE0BL36-efxuyowmLxVS-A9oCd_2tmzorX_QbH7Gr1u3e8iJcbcbxw/s3840/heroscreen-20042022-COLORS-DESKTOP-1@2x.png);background-size: cover;
+
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglGdSkIC0ZTIkzRXIlV4Drmo5mdJfYfRgih-TVg3WLnnQUYIT28tRki5Q2-WwsnVFW5l1W_8E3KXovmoJ4jXW-gSuQ_AVPYfHdOm4aOvlkI170STdxK4gKwg8rV_0pd8H6-X5rGE0BL36-efxuyowmLxVS-A9oCd_2tmzorX_QbH7Gr1u3e8iJcbcbxw/s3840/heroscreen-20042022-COLORS-DESKTOP-1@2x.png);
+    background-size: cover;
+}
+
+h1 {
+    color: #e4fa18;
+    font-size: 28px;
+    margin-bottom: 20px;
+    text-shadow: 3px 3px 3px black;
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    resize: vertical;
+    min-height: 200px;
+}
+
+textarea:focus {
+    border-color: #007bff;
+    box-shadow: 0px 0px 5px rgba(0, 123, 255, 0.5);
+}
